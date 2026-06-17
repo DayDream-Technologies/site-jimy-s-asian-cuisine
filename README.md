@@ -1,2 +1,3 @@
-# site-jimy-s-asian-cuisine
-Generated website for Jimy’s Asian Cuisine
+# Jimy’s Asian Cuisine
+
+Generated static website published by website-redesign-agent.
